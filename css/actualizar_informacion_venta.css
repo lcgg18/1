@@ -34,7 +34,7 @@ a,
   color: #ffffff;
   display: block;
   text-align: center;
-  margin-top: 1rem;
+  margin-top: 1.4rem;
 }
 
 /* When you mouse over the navigation links, change their color */
@@ -85,6 +85,7 @@ h3 {
 table,
   th,
   td {
+    
     border: 1px solid black;
     border-collapse: collapse;
     padding: 5px;
@@ -95,6 +96,7 @@ table,
   }
   
   th {
+    font-size: 1.3rem;
     color: white;
     background-color: #1a759f;
   }

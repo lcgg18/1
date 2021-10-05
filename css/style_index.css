@@ -61,6 +61,7 @@ a,
 }
 
 .modulo {
+  font-family: kalam;
   background-color: #3a0ca3;
   max-width: 100%;
   max-height: 2rem;
@@ -83,7 +84,7 @@ h3 {
 /* fin de la base del menu */
 
 p{
-  color:#480ca8;
-  font-size: 3rem;
-  
+  color:#ffffff;
+  font-size: 2.5rem;
+  font-style: italic;
 }
